@@ -1,0 +1,41 @@
+.div-duur {
+  display: flex;
+  flex-direction: row;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 62px;
+  padding-bottom: 62px;
+  justify-content: space-between;
+  
+}
+
+.div-duur-eco {
+  width: 500px;
+  
+}
+
+.p-duur {
+  font-size: 14px;
+  font-family: Rubik;
+  line-height: 26px;
+  color: #646d70;
+}
+
+.h1-duur {
+  font-size: 30px;
+  font-family: Merriweather;
+  font-weight: 900;
+  color: #222f33;
+}
+
+.button-durr {
+  width: 90px;
+  height: 34px;
+  border-radius: 4px;
+  color: #606b74;
+  text-align: center;
+  font-size: 12px;
+  font-family: Rubik;
+  font-weight: 500;
+  border: solid 1px #606b74;
+}

@@ -1,0 +1,28 @@
+.div-sec1-eco{
+    width: 100%;
+    margin: 0;
+    background-image: url(../../assets/cabin_bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 115px;
+    padding-left: 100px;
+    padding-bottom: 196px;
+   
+}
+
+.parrafo-sec1-eco{
+    width: 440px;
+    color: white;
+
+}
+
+
+
+.h1-sec1-eco{
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 38px;
+    
+    
+}

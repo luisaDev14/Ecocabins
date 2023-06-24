@@ -1,0 +1,36 @@
+.div-inno {
+  display: flex;
+  padding-left: 200px;
+  padding-right: 200px;
+  flex-direction: column;
+  background-color: #222f33;
+  padding-top: 72px;
+  padding-bottom: 72px;
+  
+
+}
+
+.div-inno-p {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+
+.h1-inno {
+  margin: 0;
+  color: white;
+  margin-bottom: 8px;
+  
+}
+
+.p-inno {
+  width: 380px;
+  color: white;
+  margin: 0;
+  font-size: 14px;
+  font-family: Rubik;
+  line-height: 24px;
+  
+}
